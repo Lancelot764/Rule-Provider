@@ -6,6 +6,8 @@ Ads list based on [ND-AD Surge AD_Block.txt](https://github.com/NobyDa/ND-AD/blo
 
 **Updated at irregular intervals**
 
+**Welcome to submit issues or pull request.**
+
 [What's the rule-provider?](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider)
 
 For use rule-provider you should use [clash premium core](https://github.com/Dreamacro/clash/releases/tag/premium).
