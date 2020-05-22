@@ -1,0 +1,9 @@
+# Update time: 2020-05-22 10:00AM UTC+0
+payload:
+  - '.pscdn.co'
+  - '.scdn.co'
+  - '.spotify.com'
+  - 'spotify.com'
+  - '.spotify.com.*.*.*.*'
+  - '.spoti.fi'
+  - '.-spotify-com.*.*.*.*'
