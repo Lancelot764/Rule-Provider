@@ -1,6 +1,6 @@
 ## Notes
 
-Self used Clash Rule Provider based on [ConnersHua Rules](https://github.com/ConnersHua/Profiles/tree/ma%D1%95ter)
+Self used Clash Rule Provider based on [ConnersHua Rules](https://github.com/DivineEngine/Profiles/tree/master)
 
 Ads list based on [ND-AD Surge AD_Block.txt](https://github.com/NobyDa/ND-AD/blob/master/Surge/AD_Block.txt) with manual deduplicated domain and clash optimization.
 
