@@ -1,0 +1,42 @@
+payload:
+  # (DNS Cache Pollution)
+  # > Google
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,blogspot
+  # > Microsoft
+  # > Facebook
+  - DOMAIN-KEYWORD,facebook
+  # > Twitter
+  - DOMAIN-KEYWORD,twitter
+  # > Telegram
+  # > Line
+  # > Akamai
+  # > Amazon CloudFront
+  # > Others
+
+
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,porn
+
+  # (IP Blackhole)
+  # > Google
+  # > Telegram
+  # > Others
+
+  # (Region-Restricted Access Denied)
+  # ---(Apple)---
+  # > Apple URL Shortener
+  # > iBooks Store download
+  # > App Store Preview
+  # > Spotlight
+  # > Look Up
+  # > Apple Music Web
+  # ------
+  # > Others
+
+  # (Network Jitter)
+  # > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  # - DOMAIN-SUFFIX,evernote.com
