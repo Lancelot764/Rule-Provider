@@ -1,12 +1,7 @@
-# Update time: 2020-05-22 10:00AM UTC+0
+# Update time: 2020-06-18 10:00AM UTC+0
 payload:
-  - '.googlevideo.com'
-  - '.youtube.*'
+  - '+.googlevideo.com'
+  - '+.youtube.*'
   - 'youtubei.googleapis.com'
-  - '.gvt2.com'
-  - '.youtu.be'
-  - 'googlevideo.com'
-  - 'youtube.*'
-  - 'youtubei.googleapis.com'
-  - 'gvt2.com'
-  - 'youtu.be'
+  - '+.gvt2.com'
+  - '+.youtu.be'
