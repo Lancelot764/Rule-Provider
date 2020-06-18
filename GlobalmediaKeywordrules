@@ -1,0 +1,54 @@
+payload:
+  # Streaming Media
+  # (Podcast)
+  # > Himalaya
+  # (Music)
+  # > Deezer
+  # > JOOX
+  - DOMAIN-KEYWORD,jooxweb-api
+  # > KKBOX
+  # > Pandora
+  # > SoundCloud
+  # > Spotify
+  - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,-spotify-com
+  # > TIDAL
+  # > YouTubeMusic
+  # (Video)
+  # > AbemaTV
+  - DOMAIN-KEYWORD,abematv.akamaized.net
+  # > All 4
+  # > Amazon Prime Video
+  # > Apple TV
+  # > Bahamut
+  # > BBC iPlayer
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,uk-live
+  # > DAZN
+  - DOMAIN-KEYWORD,voddazn
+  # > Disney+
+  # > encoreTVB
+  # > FOX NOW
+  # > FOX+
+  # > HBO NOW & Max
+  # > HBO GO HKG
+  # > 华文电视
+  # > Hulu
+  # > Hulu / フールー
+  # > ITV
+  # > KKTV
+  # > LINE TV
+  # > LiTV
+  # > My5
+  # > myTV SUPER
+  # > Netflix
+  # > niconico
+  # > Now E
+  # > PBS
+  # > Pornhub
+  # > 台湾好
+  # > TikTok
+  - DOMAIN-KEYWORD,-tiktokcdn-com
+  # > Twitch
+  # > ViuTV
+  # > YouTube
