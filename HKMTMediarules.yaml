@@ -1,35 +1,80 @@
-# Update time: 2020-05-22 10:00AM UTC+0
 payload:
-  - '.acg.tv'
-  - '.acgvideo.com'
-  - '.b23.tv'
-  - '.biliapi.*'
-  - '.bilibili.com'
-  - '.biligame.*'
-  - '.bilivideo.com'
-  - '.hdslb.com'
-  - '.im9.com'
-  - '.qiyi.*'
-  - '.iqiyi.*'
-  - '.qy.net'
-  - '.letv.com'
-  - '.api.mob.app.letv.com'
-  - '.vv.video.qq.com'
-  - 'cache.video.iqiyi.com'
+  # (Video)
+  # > Acfun
+  - '+.acfun.cn'
+  - '+.aixifan.com'
+  # > bilibili
+  - '+.acg.tv'
+  - '+.acgvideo.com'
+  - '+.b23.tv'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
   - 'api.bilibili.com'
+  - '+.biliapi.*'
+  - '+.biligame.*'
+  - 'api.bilibili.com'
+  - 'www.bilibili.com'
   - 'upos-hz-mirrorakam.akamaized.net'
-  - 'acg.tv'
-  - 'acgvideo.com'
-  - 'b23.tv'
-  - 'biliapi.*'
-  - 'bilibili.com'
-  - 'biligame.*'
-  - 'bilivideo.com'
-  - 'hdslb.com'
-  - 'im9.com'
-  - 'qiyi.*'
-  - 'iqiyi.*'
-  - 'qy.net'
-  - 'letv.com'
-  - 'api.mob.app.letv.com'
-  - 'vv.video.qq.com'
+  # > Tencent Video
+  - '+.video.qq.com'
+  - '+.v.qq.com'
+  # > iQiyi
+  - '+.iqiyi.*'
+  - '+.qiyi.*'
+  - '+.qy.*'
+  - '+.71edge.com'
+  - 'cache.video.iqiyi.com'
+  # > Youku
+  - '+.soku.com'
+  - '+.youku.com'
+  - '+.ykimg.com'
+  # > XiGua
+  - '+.ixigua.com'
+  - '+.snssdk.com'
+  # > HunanTV
+  - '+.hitv.com'
+  - '+.hunantv.com'
+  - '+.mgtv.com'
+  # > Le
+  - '+.le.com'
+  # > PPLive
+  - '+.pplive.cn'
+  - '+.pptv.com'
+  # > Sohu Video
+  - '+.itc.cn'
+  - '+.sohu.com'
+  # > Migu Video
+  - '+.cmvideo.cn'
+  - '+.miguvideo.com'
+  # > 芒果TV国际
+  - '+.api.mgtv.com'
+  # > WeTV
+  - '+.wetv.vip'
+  - '+.wetvinfo.com'
+
+  # (Music)
+  # > QQ Music
+  - '+.music.qq.com'
+  - '+.music.tc.qq.com'
+  - '+.qqmusic.qq.com'
+  - '+.tencentmusic.com'
+  - '+.y.qq.com'
+  - 'aqqmusic.tc.qq.com'
+  - 'moo.qq.com'
+  # > China Music Corp
+  - '+.kuwo.cn'
+  - '+.kugou.com'
+  # > Netease Cloud Music
+  - '+.music.163.com'
+  - '+.music.126.net'
+  - 'mam.netease.com'
+  - 'api.iplay.163.com'
+  # > Qianqian Music
+  - '+.qianqian.com'
+  - '+.taihe.com'
+  # > Migu Music
+  - '+.migu.cn'
+  # > Xiaomi
+  - '+.ai.xiaomi.com'
+  - '+.music.xiaomi.com'
+  - '+.dmhmusic.com'
