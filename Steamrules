@@ -1,0 +1,16 @@
+payload:
+  # Steam
+  - '+.steam-chat.com'
+  - '+.steamcontent.com'
+  - '+.steamgames.com'
+  - '+.steampowered.com'
+  - '+.steamstat.us'
+  - '+.steamstatic.com'
+  - '+.steamusercontent.com'
+  - 'steambroadcast.akamaized.net'
+  - 'steamcdn-a.akamaihd.net'
+  - 'steamcommunity-a.akamaihd.net'
+  - 'steamstore-a.akamaihd.net'
+  - 'steamusercontent-a.akamaihd.net'
+  - 'steamusercontent-a.akamaihd.net'
+  - 'steamuserimages-a.akamaihd.net'
