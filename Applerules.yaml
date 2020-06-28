@@ -9,7 +9,6 @@ payload:
   - '+.apple-dns.net'
   - '+.apple.*'
   - '+.apple.*.*'
-  - '+.apple.*.*.*'
   - '+.appstore.com'
   - '+.cdn-apple.com'
   - '+.crashlytics.com'
