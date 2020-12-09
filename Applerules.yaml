@@ -2,7 +2,6 @@
 # mixed apple rules&apple news rules
 payload:
   # >> Apple
-  - '+.apple.com'
   - '+.aaplimg.com'
   - '+.api-glb-sea.smoot.apple.com'
   - '+.apple-cloudkit.com'
@@ -13,9 +12,11 @@ payload:
   - '+.cdn-apple.com'
   - '+.crashlytics.com'
   - '+.icloud-content.com'
-  - '+.icloud.com'
+  - '+.icloud.*'
+  - '+.icloud.*.*'
   - '+.itunes.apple.com'
   - '+.lookup-api.apple.com'
   - '+.me.com'
   - '+.mzstatic.com'
   - '+.www-cdn.icloud.com.akadns.net'
+  - '+.icloud.com.akadns.net'
