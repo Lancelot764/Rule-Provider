@@ -1,80 +1,51 @@
 payload:
-  # (Video)
-  # > Acfun
-  - '+.acfun.cn'
-  - '+.aixifan.com'
-  # > bilibili
-  - '+.acg.tv'
-  - '+.acgvideo.com'
-  - '+.b23.tv'
-  - '+.bilivideo.com'
-  - '+.hdslb.com'
-  - 'api.bilibili.com'
-  - '+.biliapi.*'
-  - '+.biligame.*'
-  - 'api.bilibili.com'
-  - 'www.bilibili.com'
-  - 'upos-hz-mirrorakam.akamaized.net'
-  # > Tencent Video
-  - '+.video.qq.com'
-  - '+.v.qq.com'
-  # > iQiyi
-  - '+.iqiyi.*'
-  - '+.qiyi.*'
-  - '+.qy.*'
   - '+.71edge.com'
-  - 'cache.video.iqiyi.com'
-  # > Youku
-  - '+.soku.com'
-  - '+.youku.com'
-  - '+.ykimg.com'
-  # > XiGua
-  - '+.ixigua.com'
-  - '+.snssdk.com'
-  # > HunanTV
+  - '+.acfun.cn'
+  - '+.ai.xiaomi.com'
+  - '+.aixifan.com'
+  - '+.biliapi.net'
+  - '+.biliapi.net'
+  - '+.bilibili.com'
+  - '+.bilibili.com'
+  - '+.bilivideo.com'
+  - '+.cmvideo.cn'
+  - '+.dmhmusic.com'
+  - '+.hdslb.com'
   - '+.hitv.com'
   - '+.hunantv.com'
-  - '+.mgtv.com'
-  # > Le
-  - '+.le.com'
-  # > PPLive
-  - '+.pplive.cn'
-  - '+.pptv.com'
-  # > Sohu Video
+  - '+.i.qq.com'
+  - '+.iqiyi.com'
   - '+.itc.cn'
-  - '+.sohu.com'
-  # > Migu Video
-  - '+.cmvideo.cn'
+  - '+.ixigua.com'
+  - '+.kugou.com'
+  - '+.kuwo.cn'
+  - '+.le.com'
+  - '+.mgtv.com'
+  - '+.migu.cn'
   - '+.miguvideo.com'
-  # > 芒果TV国际
-  - '+.api.mgtv.com'
-  # > WeTV
-  - '+.wetv.vip'
-  - '+.wetvinfo.com'
-
-  # (Music)
-  # > QQ Music
+  - '+.music.126.net'
+  - '+.music.163.com'
   - '+.music.qq.com'
   - '+.music.tc.qq.com'
-  - '+.qqmusic.qq.com'
-  - '+.tencentmusic.com'
-  - '+.y.qq.com'
-  - 'aqqmusic.tc.qq.com'
-  - 'moo.qq.com'
-  # > China Music Corp
-  - '+.kuwo.cn'
-  - '+.kugou.com'
-  # > Netease Cloud Music
-  - '+.music.163.com'
-  - '+.music.126.net'
-  - 'mam.netease.com'
-  - 'api.iplay.163.com'
-  # > Qianqian Music
-  - '+.qianqian.com'
-  - '+.taihe.com'
-  # > Migu Music
-  - '+.migu.cn'
-  # > Xiaomi
-  - '+.ai.xiaomi.com'
   - '+.music.xiaomi.com'
-  - '+.dmhmusic.com'
+  - '+.pplive.cn'
+  - '+.pptv.com'
+  - '+.qianqian.com'
+  - '+.qqmusic.qq.com'
+  - '+.snssdk.com'
+  - '+.sohu.com'
+  - '+.soku.com'
+  - '+.taihe.com'
+  - '+.tencentmusic.com'
+  - '+.v.qq.com'
+  - '+.video.qq.com'
+  - '+.y.qq.com'
+  - '+.ykimg.com'
+  - '+.youku.com'
+  - 'api.iplay.163.com'
+  - 'aqqmusic.tc.qq.com'
+  - 'cache.video.iqiyi.com'
+  - 'cache.video.iqiyi.com'
+  - 'mam.netease.com'
+  - 'moo.qq.com'
+  - 'upos-hz-mirrorakam.akamaized.net'
