@@ -169,3 +169,7 @@ payload:
   - 'dfp6rglgjqszk.cloudfront.net'
   - '+.wetv.vip'
   - '+.wetvinfo.com'
+  - '+.tv.apple.com'
+  - '+.hls.itunes.apple.com'
+  - '+.hls-amt.itunes.apple.com'
+  - '+.play-edge.itunes.apple.com'
