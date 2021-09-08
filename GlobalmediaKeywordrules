@@ -15,4 +15,10 @@ payload:
 
   - DOMAIN-KEYWORD,voddazn
 
+  - DOMAIN-KEYWORD,.hbogoasia.
+
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
+
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+
   - DOMAIN-KEYWORD,-tiktokcdn-com
